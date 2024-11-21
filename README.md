@@ -1,2 +1,2 @@
-# IntroToProg-Python-Mod05
+# IntroToProg-Python
 Python Module 05
